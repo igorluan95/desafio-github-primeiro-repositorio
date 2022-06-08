@@ -1,0 +1,10 @@
+Link apra download do Git: https://git-scm.com/downloads
+O git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comandos usados nesse projeto:
+
+git clone - clonar o repositório remoto;
+git status - verificar o status após adicionar esse arquivo (Anotações) na pasta local;
+git add . - dizer que o arquivo modificado que apareceu no status (Anotações) faz parte do próximo commit, o arquivo está na staging área;
+git commit -m "" - colocar a descrição do commit;
+git push origin main - subir o arquivo para o repositório remoto com a descrição colocada no commit.
